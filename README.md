@@ -37,4 +37,7 @@ If you are here looking for source code and possibly you need help from me with 
 - 💬 Ask me about Anything , Anytime
 
 ## My Stats So Far 
-![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikashthapa01&theme=highcontrast&show_icons=true)
+![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikashthapa01&theme=highcontrast&show_icons=true) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashthapa01&layout=compact)](https://github.com/bikashthapa01/github-readme-stats)
+
