@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm Bikash, Computer Science Engineer, I love taking on challenges and breaking things to make them better. I am passionate about programming and learning new stuff. I spent most of the time building stuff with different programming languages. I have a youtube channel called [SmallAcademy](https://youtube.com/smallacademy), where I teach programming as well. 
-If you are reading this, then either you are my classmates or you found me through one of the social channels.
+If you are reading this, then either you are my classmate, student or you found me through one of the social channels.
 
 If you are here looking for source code and possibly you need help from me with your code, I am active on, Facebook, LinkedIn, and Instagram or you can directly email me with your query/suggestions.
 
