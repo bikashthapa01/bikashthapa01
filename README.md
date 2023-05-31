@@ -32,8 +32,8 @@ If you are here looking for source code and possibly you need help from me with 
 
 
 ### Here are few not so interesting stuff about me 😃
-- 🔭 I’m currently working on MeroClasses.com (Educational App) 
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on ......TBD 
+- 🌱 I’m currently learning React/nextjs
 - 💬 Ask me about Anything , Anytime
 
 ## My Stats So Far 
