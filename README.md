@@ -32,12 +32,8 @@ If you are here looking for source code and possibly you need help from me with 
 
 
 ### Here are few not so interesting stuff about me 😃
-- 🔭 I’m currently working on [FreeTaxCalculator.co.uk](https://freetaxcalculator.co.uk) 
+- 🔭 I’m currently working on [OnlineRestaurant.co.uk](https://OnlineRestaurant.co.uk) 
 - 🌱 I’m currently learning React/nextjs
 - 💬 Ask me about Anything , Anytime
 
-## My Stats So Far 
-![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=bikashthapa01&theme=highcontrast&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bikashthapa01&layout=compact)](https://github.com/bikashthapa01/github-readme-stats)
 
